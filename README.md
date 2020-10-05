@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-- 🔭 I am working on web development with the help of technologies like Python3, Javascript, AWS Cloud and AWS Serverless stack which consists of AWS-Lambda , AWS-Dynamodb, AWS-API Gateway, AWS-S3 and many more..
+🔭 I am working on web development with the help of technologies like Python3,      Javascript, AWS Cloud and AWS Serverless stack which consists of AWS-Lambda , AWS-Dynamodb, AWS-API Gateway, AWS-S3 and many more..
 
 - 🌱 I’m currently learning **VueJs**
 
