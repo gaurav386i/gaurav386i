@@ -1,4 +1,4 @@
-<img src="https://github.com/gaurav386i/gaurav386i/blob/master/assets/Gaurav-yadav.png">
+
 
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
