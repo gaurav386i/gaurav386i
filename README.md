@@ -1,9 +1,8 @@
-<a href="https://twitter.com/yadavgaurav386" target="_blank" rel="nofollow"><img align="right" alt="Gaurav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/gaurav-yadav-ba715447/" target="_blank" rel="nofollow"><img align="right" alt="Gaurav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-- 🔭 I’m Gaurav, I am working on projects related to web development with help of technologies like Python3, Javascript, AWS Cloud and AWS Serverless stack which consists of AWS-Lambda , AWS-Dynamodb, AWS-API Gateway, AWS-S3 and many more..
+- 🔭 I am working on projects related to web development with help of technologies like Python3, Javascript, AWS Cloud and AWS Serverless stack which consists of AWS-Lambda , AWS-Dynamodb, AWS-API Gateway, AWS-S3 and many more..
 
 - 🌱 I’m currently learning **VueJs**
 
