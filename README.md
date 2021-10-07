@@ -5,7 +5,7 @@
 
 - 🔭 I am passionate about web development and cloud technologies, currently working with Python3, Javascript, AWS and Serverless technologies.
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **RUST**
 
 - 📫 How to reach me **yadavgaurav386@gmail.com**
 
