@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I am passionate about web development and cloud technologies, currently working with Python3, Javascript, AWS and Serverless technologies.
+- 🔭 I am passionate about virtualization and cloud technologies, currently working with Python3, Hypervisor Virtualization, MySQL, Kubernetes, rabbitMQ libvirt and other virtuallization technologies.
 
 - 🌱 I’m currently learning **GOLANG** and **KVM**
 
