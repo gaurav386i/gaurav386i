@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/gaurav386i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gaurav386i" height="30" width="40" /></a>
 <a href="https://twitter.com/yadavgaurav386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yadavgaurav386" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-yadav-ba715447/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gaurav-yadav-ba715447/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gaurav-ba715447/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gaurav-ba715447/" height="30" width="40" /></a>
 <a href="https://medium.com/@yadavgaurav386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yadavgaurav386" height="30" width="40" /></a>
 </p>
 
