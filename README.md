@@ -41,7 +41,6 @@ I’m passionate about **Linux internals, hypervisor design, distributed systems
 ---
 
 ## 🛠️ Technical Skills  
-(Directly mapped to your resume sections)
 
 ### 🔹 Virtualization & Hypervisor Stack
 <p>
@@ -85,7 +84,7 @@ I’m passionate about **Linux internals, hypervisor design, distributed systems
 
 ---
 
-## 🔍 Featured Work (matches your resume projects)
+## 🔍 Featured Work
 
 ### **Hypervisor Agent & Manager (OCI PCA)**  
 Python3 + libvirt-based hypervisor service handling:  
