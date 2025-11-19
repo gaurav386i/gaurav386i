@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | Compute Virtualization (KVM • QEMU • libvirt)</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-ba715447/">
+  <a href="www.linkedin.com/in/gaurav-yadav-ba715447">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://medium.com/@yadavgaurav386">
